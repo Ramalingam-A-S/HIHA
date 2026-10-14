@@ -16,6 +16,8 @@ export const serverEnvSchema = z.object({
   FFPROBE_PATH: z.string().min(1).optional(),
   RENDER_WORKER_EMAIL: z.string().email().optional(),
   RENDER_WORKER_PASSWORD: z.string().min(1).optional(),
+  VERCEL_URL: z.string().min(1).optional(),
+  VERCEL_ENV: z.string().min(1).optional(),
 });
 
 /**
@@ -31,6 +33,7 @@ export const clientEnvSchema = z.object({
   NEXT_PUBLIC_SUPABASE_URL: z.string().url().optional(),
   NEXT_PUBLIC_SUPABASE_ANON_KEY: z.string().min(1).optional(),
   NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: z.string().min(1).optional(),
+  NEXT_PUBLIC_VERCEL_URL: z.string().min(1).optional(),
 });
 
 export type ServerEnv = z.infer<typeof serverEnvSchema>;
@@ -198,6 +201,130 @@ export const env = {
       NEXT_PUBLIC_SUPABASE_ANON_KEY: process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,
       NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY:
         process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY,
+      NEXT_PUBLIC_VERCEL_URL: process.env.NEXT_PUBLIC_VERCEL_URL,
     });
   },
 };
+
+export class SiteUrlConfigError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = "SiteUrlConfigError";
+  }
+}
+
+/**
+ * Checks whether a candidate URL string points to localhost or a loopback address.
+ */
+function isLocalhostUrl(urlStr: string): boolean {
+  try {
+    const formatted =
+      urlStr.startsWith("http://") || urlStr.startsWith("https://")
+        ? urlStr
+        : `https://${urlStr}`;
+    const parsed = new URL(formatted);
+    return (
+      parsed.hostname === "localhost" ||
+      parsed.hostname === "127.0.0.1" ||
+      parsed.hostname === "::1" ||
+      parsed.hostname.endsWith(".localhost")
+    );
+  } catch {
+    return false;
+  }
+}
+
+/**
+ * Resolves the application site URL following strict precedence:
+ *  1. Explicit NEXT_PUBLIC_SITE_URL
+ *  2. Explicit NEXT_PUBLIC_APP_URL
+ *  3. VERCEL_URL (prepended with https://)
+ *  4. http://localhost:3000 (local development/testing only)
+ *
+ * In a production environment (NODE_ENV === "production" or VERCEL_ENV === "production" or VERCEL_ENV === "preview"):
+ *  - Refuses to fall back silently to localhost if no valid site URL is available.
+ *  - If a candidate URL points to localhost while in production, throws SiteUrlConfigError unless VERCEL_URL is available to override it.
+ *  - Strips any trailing slashes and validates the absolute HTTP/HTTPS URL format.
+ */
+export function resolveSiteUrl(
+  rawEnv: Record<string, string | undefined> = process.env
+): string {
+  const isProduction =
+    rawEnv.NODE_ENV === "production" ||
+    rawEnv.VERCEL_ENV === "production" ||
+    rawEnv.VERCEL_ENV === "preview";
+
+  const siteUrl = rawEnv.NEXT_PUBLIC_SITE_URL?.trim();
+  const appUrl = rawEnv.NEXT_PUBLIC_APP_URL?.trim();
+  const vercelUrl = (rawEnv.VERCEL_URL || rawEnv.NEXT_PUBLIC_VERCEL_URL)?.trim();
+
+  let candidate: string | undefined;
+
+  // 1. Explicit NEXT_PUBLIC_SITE_URL
+  if (siteUrl && siteUrl.length > 0) {
+    if (isProduction && isLocalhostUrl(siteUrl)) {
+      if (vercelUrl && vercelUrl.length > 0 && !isLocalhostUrl(vercelUrl)) {
+        candidate =
+          vercelUrl.startsWith("http://") || vercelUrl.startsWith("https://")
+            ? vercelUrl
+            : `https://${vercelUrl}`;
+      } else {
+        throw new SiteUrlConfigError(
+          `Production environment cannot use a localhost site URL (NEXT_PUBLIC_SITE_URL='${siteUrl}'). Please configure a valid public domain.`
+        );
+      }
+    } else {
+      candidate = siteUrl;
+    }
+  }
+  // 2. Explicit NEXT_PUBLIC_APP_URL
+  else if (appUrl && appUrl.length > 0) {
+    if (isProduction && isLocalhostUrl(appUrl)) {
+      if (vercelUrl && vercelUrl.length > 0 && !isLocalhostUrl(vercelUrl)) {
+        candidate =
+          vercelUrl.startsWith("http://") || vercelUrl.startsWith("https://")
+            ? vercelUrl
+            : `https://${vercelUrl}`;
+      } else {
+        throw new SiteUrlConfigError(
+          `Production environment cannot use a localhost app URL (NEXT_PUBLIC_APP_URL='${appUrl}'). Please configure a valid public domain.`
+        );
+      }
+    } else {
+      candidate = appUrl;
+    }
+  }
+  // 3. VERCEL_URL when present
+  else if (vercelUrl && vercelUrl.length > 0) {
+    candidate =
+      vercelUrl.startsWith("http://") || vercelUrl.startsWith("https://")
+        ? vercelUrl
+        : `https://${vercelUrl}`;
+  }
+  // 4. http://localhost:3000 only for local development
+  else if (!isProduction) {
+    candidate = "http://localhost:3000";
+  } else {
+    throw new SiteUrlConfigError(
+      "Site URL configuration is missing in production environment. Please set NEXT_PUBLIC_SITE_URL, NEXT_PUBLIC_APP_URL, or ensure VERCEL_URL is provided."
+    );
+  }
+
+  // Final URL syntax validation
+  let parsedUrl: URL;
+  try {
+    parsedUrl = new URL(candidate);
+  } catch {
+    throw new SiteUrlConfigError(
+      `Invalid resolved site URL '${candidate}': must be a valid absolute HTTP or HTTPS URL.`
+    );
+  }
+
+  if (parsedUrl.protocol !== "http:" && parsedUrl.protocol !== "https:") {
+    throw new SiteUrlConfigError(
+      `Invalid resolved site URL '${candidate}': protocol must be http: or https:.`
+    );
+  }
+
+  return candidate.replace(/\/+$/, "");
+}

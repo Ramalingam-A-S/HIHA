@@ -130,4 +130,123 @@ describe("Environment Variable Validation", () => {
       ).toThrowError(/missing or placeholder/);
     });
   });
+
+  describe("resolveSiteUrl", () => {
+    it("respects explicit NEXT_PUBLIC_SITE_URL as highest priority", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolved = resolveSiteUrl({
+        NEXT_PUBLIC_SITE_URL: "https://custom-site.com",
+        NEXT_PUBLIC_APP_URL: "https://custom-app.com",
+        VERCEL_URL: "preview.vercel.app",
+        NODE_ENV: "production",
+      });
+      expect(resolved).toBe("https://custom-site.com");
+    });
+
+    it("strips trailing slashes from explicit NEXT_PUBLIC_SITE_URL", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolved = resolveSiteUrl({
+        NEXT_PUBLIC_SITE_URL: "https://custom-site.com///",
+        NODE_ENV: "production",
+      });
+      expect(resolved).toBe("https://custom-site.com");
+    });
+
+    it("respects explicit NEXT_PUBLIC_APP_URL when NEXT_PUBLIC_SITE_URL is omitted", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolved = resolveSiteUrl({
+        NEXT_PUBLIC_APP_URL: "https://app-domain.org",
+        VERCEL_URL: "preview.vercel.app",
+        NODE_ENV: "production",
+      });
+      expect(resolved).toBe("https://app-domain.org");
+    });
+
+    it("resolves Vercel Preview URL when explicit site and app URLs are omitted", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolved = resolveSiteUrl({
+        VERCEL_URL: "hiha-git-preview-123.vercel.app",
+        NODE_ENV: "production",
+        VERCEL_ENV: "preview",
+      });
+      expect(resolved).toBe("https://hiha-git-preview-123.vercel.app");
+    });
+
+    it("handles VERCEL_URL that already includes https protocol", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolved = resolveSiteUrl({
+        VERCEL_URL: "https://hiha-git-preview-123.vercel.app",
+        NODE_ENV: "production",
+      });
+      expect(resolved).toBe("https://hiha-git-preview-123.vercel.app");
+    });
+
+    it("falls back to VERCEL_URL in production when NEXT_PUBLIC_APP_URL is localhost", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolved = resolveSiteUrl({
+        NEXT_PUBLIC_APP_URL: "http://localhost:3000",
+        VERCEL_URL: "hiha-git-preview-123.vercel.app",
+        NODE_ENV: "production",
+      });
+      expect(resolved).toBe("https://hiha-git-preview-123.vercel.app");
+    });
+
+    it("falls back to http://localhost:3000 in local development environment", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      const resolvedDev = resolveSiteUrl({
+        NODE_ENV: "development",
+      });
+      expect(resolvedDev).toBe("http://localhost:3000");
+
+      const resolvedTest = resolveSiteUrl({
+        NODE_ENV: "test",
+      });
+      expect(resolvedTest).toBe("http://localhost:3000");
+
+      const resolvedEmpty = resolveSiteUrl({});
+      expect(resolvedEmpty).toBe("http://localhost:3000");
+    });
+
+    it("throws SiteUrlConfigError in production when all configuration is missing", async () => {
+      const { resolveSiteUrl, SiteUrlConfigError } = await import("@/lib/env");
+      expect(() =>
+        resolveSiteUrl({
+          NODE_ENV: "production",
+        })
+      ).toThrowError(SiteUrlConfigError);
+
+      expect(() =>
+        resolveSiteUrl({
+          NODE_ENV: "production",
+        })
+      ).toThrowError(/Site URL configuration is missing in production/);
+    });
+
+    it("throws SiteUrlConfigError in production when only localhost is provided and no Vercel URL exists", async () => {
+      const { resolveSiteUrl } = await import("@/lib/env");
+      expect(() =>
+        resolveSiteUrl({
+          NODE_ENV: "production",
+          NEXT_PUBLIC_SITE_URL: "http://localhost:3000",
+        })
+      ).toThrowError(/Production environment cannot use a localhost site URL/);
+
+      expect(() =>
+        resolveSiteUrl({
+          NODE_ENV: "production",
+          NEXT_PUBLIC_APP_URL: "http://127.0.0.1:3000",
+        })
+      ).toThrowError(/Production environment cannot use a localhost app URL/);
+    });
+
+    it("throws SiteUrlConfigError when candidate URL is malformed", async () => {
+      const { resolveSiteUrl, SiteUrlConfigError } = await import("@/lib/env");
+      expect(() =>
+        resolveSiteUrl({
+          NEXT_PUBLIC_SITE_URL: "not-a-valid-url",
+          NODE_ENV: "development",
+        })
+      ).toThrowError(SiteUrlConfigError);
+    });
+  });
 });

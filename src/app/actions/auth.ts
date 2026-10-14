@@ -2,6 +2,7 @@
 
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
+import { resolveSiteUrl } from "@/lib/env";
 import { tryCreateClient } from "@/lib/supabase/server";
 import {
   signUpSchema,
@@ -43,6 +44,19 @@ export async function signUpAction(
     };
   }
 
+  let siteUrl: string;
+  try {
+    siteUrl = resolveSiteUrl();
+  } catch (err) {
+    return {
+      success: false,
+      message:
+        err instanceof Error
+          ? err.message
+          : "Site URL configuration is invalid. Please contact support.",
+    };
+  }
+
   const {
     email,
     password,
@@ -73,6 +87,7 @@ export async function signUpAction(
     email,
     password,
     options: {
+      emailRedirectTo: `${siteUrl}/login?confirmed=true`,
       data: {
         username,
         display_name: displayName,
@@ -186,10 +201,18 @@ export async function resetPasswordAction(
   }
 
   const { email } = validation.data;
-  const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL ||
-    process.env.NEXT_PUBLIC_APP_URL ||
-    "http://localhost:3000";
+  let siteUrl: string;
+  try {
+    siteUrl = resolveSiteUrl();
+  } catch (err) {
+    return {
+      success: false,
+      message:
+        err instanceof Error
+          ? err.message
+          : "Site URL configuration is invalid. Please contact support.",
+    };
+  }
 
   await supabase.auth.resetPasswordForEmail(email, {
     redirectTo: `${siteUrl}/login?reset=confirmed`,
