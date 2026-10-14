@@ -1,0 +1,2066 @@
+[
+  {
+    "time": "2026-10-13T14:56:49.383Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.384Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.384Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.384Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.384Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.385Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.385Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.385Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.400Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.400Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.400Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.401Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.401Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.401Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.401Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.401Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.415Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:49.415Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.116Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.116Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.117Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.117Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.117Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.118Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.118Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.118Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.118Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.118Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.135Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.135Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.135Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.136Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.136Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.136Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.136Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.136Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.927Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.927Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.927Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.928Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.928Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.928Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.928Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.928Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.943Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.943Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.943Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.944Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.944Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:50.944Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:56:51.739Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.740Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.741Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.741Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.741Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.741Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.742Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.742Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.762Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.762Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.762Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.763Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.763Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.763Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.763Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.763Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.772Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:51.772Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:56:52.487Z",
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.584Z",
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.602Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.602Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.603Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.603Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.603Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.604Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.604Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.605Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.607Z",
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.622Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.622Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.622Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.623Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.623Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.623Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.623Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.623Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.633Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:52.633Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/non-existent-route-99988"
+  },
+  {
+    "time": "2026-10-13T14:56:53.386Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.386Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.387Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.387Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.387Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.388Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.388Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.388Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.405Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.405Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.405Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.405Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.406Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.406Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.406Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.406Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.416Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:53.416Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/signup"
+  },
+  {
+    "time": "2026-10-13T14:56:54.150Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.150Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.151Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.151Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.152Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.152Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.153Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.153Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.166Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.166Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.166Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.166Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.167Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.167Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.167Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.167Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.186Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.186Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:54.989Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.989Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.990Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.990Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.990Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.990Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.991Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:54.991Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.009Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.009Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.009Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.009Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.010Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.010Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.010Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.010Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.028Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.028Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings"
+  },
+  {
+    "time": "2026-10-13T14:56:55.748Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.749Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.749Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.750Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.750Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.750Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.751Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.751Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.768Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.768Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.769Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.769Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.769Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.769Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.769Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.769Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.780Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:55.780Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/reset-password"
+  },
+  {
+    "time": "2026-10-13T14:56:57.911Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.912Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.912Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.913Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.913Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.913Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.914Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.914Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.932Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.932Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.933Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.933Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.934Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.934Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.934Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.934Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.949Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:56:57.949Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:02.961Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:57:02.961Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:57:05.766Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:57:05.766Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:57:10.130Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:57:10.131Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:57:13.418Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:13.418Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:16.755Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:57:16.755Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:57:19.123Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.123Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.124Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.124Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.125Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.125Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.126Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.126Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.148Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.149Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.149Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.149Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.150Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.150Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.172Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.172Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.172Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:19.172Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:57:21.241Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:21.241Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:26.797Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:57:26.797Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:57:29.415Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/collaborate"
+  },
+  {
+    "time": "2026-10-13T14:57:29.416Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/collaborate"
+  },
+  {
+    "time": "2026-10-13T14:57:35.073Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:35.073Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:38.427Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:38.428Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:43.100Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:43.100Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:47.614Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:47.614Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:52.063Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:52.064Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:56.719Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:57:56.719Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:58:01.210Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/network"
+  },
+  {
+    "time": "2026-10-13T14:58:01.210Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/network"
+  },
+  {
+    "time": "2026-10-13T14:58:03.153Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/notifications"
+  },
+  {
+    "time": "2026-10-13T14:58:03.153Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/notifications"
+  },
+  {
+    "time": "2026-10-13T14:58:05.832Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/communities"
+  },
+  {
+    "time": "2026-10-13T14:58:05.833Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/communities"
+  },
+  {
+    "time": "2026-10-13T14:58:09.467Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/communities"
+  },
+  {
+    "time": "2026-10-13T14:58:09.467Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/communities"
+  },
+  {
+    "time": "2026-10-13T14:58:12.587Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791881608321"
+  },
+  {
+    "time": "2026-10-13T14:58:12.588Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791881608321"
+  },
+  {
+    "time": "2026-10-13T14:58:14.863Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.864Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.864Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.864Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.865Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.865Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.865Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.865Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.878Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.878Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.878Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.878Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.878Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.878Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.879Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.879Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.896Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:14.896Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:18.003Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:18.003Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:21.061Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/collaborate"
+  },
+  {
+    "time": "2026-10-13T14:58:21.061Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/collaborate"
+  },
+  {
+    "time": "2026-10-13T14:58:25.871Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:58:25.871Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:58:27.270Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.270Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.271Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.271Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.271Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.271Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.273Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.274Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.303Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.303Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.305Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.306Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.306Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.306Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.306Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.307Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.309Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:27.309Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:30.064Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/moderation"
+  },
+  {
+    "time": "2026-10-13T14:58:30.064Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/moderation"
+  },
+  {
+    "time": "2026-10-13T14:58:33.207Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/moderation"
+  },
+  {
+    "time": "2026-10-13T14:58:33.207Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/moderation"
+  },
+  {
+    "time": "2026-10-13T14:58:35.030Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.030Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/feed. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.031Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.031Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/notifications. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.031Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.032Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/profile. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.032Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.032Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/interests. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.047Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.048Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/network. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.048Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.048Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/create. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.048Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.048Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/collaborate. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.049Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.049Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/moderation. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.064Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:35.064Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/settings. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/login"
+  },
+  {
+    "time": "2026-10-13T14:58:37.883Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:37.884Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:42.503Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:58:42.503Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:58:45.016Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:45.016Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:47.317Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:58:47.317Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/"
+  },
+  {
+    "time": "2026-10-13T14:58:49.305Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:58:49.305Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/feed"
+  },
+  {
+    "time": "2026-10-13T14:58:52.537Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:58:52.538Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/create"
+  },
+  {
+    "time": "2026-10-13T14:58:55.062Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:58:55.062Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:58:57.821Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:57.821Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/settings"
+  },
+  {
+    "time": "2026-10-13T14:58:59.793Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/communities"
+  },
+  {
+    "time": "2026-10-13T14:58:59.794Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/communities"
+  },
+  {
+    "time": "2026-10-13T14:59:03.179Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791877071491"
+  },
+  {
+    "time": "2026-10-13T14:59:03.179Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791877071491"
+  },
+  {
+    "time": "2026-10-13T14:59:06.685Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/collaborate"
+  },
+  {
+    "time": "2026-10-13T14:59:06.685Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/collaborate"
+  },
+  {
+    "time": "2026-10-13T14:59:10.377Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/moderation"
+  },
+  {
+    "time": "2026-10-13T14:59:10.378Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/moderation"
+  },
+  {
+    "time": "2026-10-13T14:59:14.812Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/network"
+  },
+  {
+    "time": "2026-10-13T14:59:14.813Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/network"
+  },
+  {
+    "time": "2026-10-13T14:59:17.205Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/interests"
+  },
+  {
+    "time": "2026-10-13T14:59:17.205Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/interests"
+  },
+  {
+    "time": "2026-10-13T14:59:19.238Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/notifications"
+  },
+  {
+    "time": "2026-10-13T14:59:19.239Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/notifications"
+  },
+  {
+    "time": "2026-10-13T14:59:21.878Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:59:21.878Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/policies"
+  },
+  {
+    "time": "2026-10-13T14:59:24.331Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:24.332Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:26.785Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:26.785Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:29.222Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:29.222Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:30.692Z",
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "url": "http://localhost:3000/_not-found"
+  },
+  {
+    "time": "2026-10-13T14:59:31.311Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/_not-found"
+  },
+  {
+    "time": "2026-10-13T14:59:31.311Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/_not-found"
+  },
+  {
+    "time": "2026-10-13T14:59:31.317Z",
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "url": "http://localhost:3000/_not-found"
+  },
+  {
+    "time": "2026-10-13T14:59:31.858Z",
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "url": "http://localhost:3000/_not-found"
+  },
+  {
+    "time": "2026-10-13T14:59:33.509Z",
+    "type": "error",
+    "text": "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+    "url": "http://localhost:3000/profile"
+  },
+  {
+    "time": "2026-10-13T14:59:33.510Z",
+    "type": "error",
+    "text": "Failed to fetch RSC payload for http://localhost:3000/login. Falling back to browser navigation. TypeError: Failed to fetch\n    at y (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:40384)\n    at async _ (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:39242)\n    at async Object.o [as task] (http://localhost:3000/_next/static/chunks/493-3a7ee7f79f79ae9a.js:1:172996)",
+    "url": "http://localhost:3000/profile"
+  }
+]

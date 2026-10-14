@@ -1,0 +1,1867 @@
+[
+  {
+    "time": "2026-10-13T16:09:33.731Z",
+    "url": "http://localhost:3000/",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:33.731Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.733Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.733Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.734Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.734Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.757Z",
+    "url": "http://localhost:3000/",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:33.758Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.759Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.760Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:33.760Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.474Z",
+    "url": "http://localhost:3000/",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:34.474Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.476Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.476Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.476Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.477Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.491Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.491Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.492Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:34.492Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.292Z",
+    "url": "http://localhost:3000/",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:35.292Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.292Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.293Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.293Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.307Z",
+    "url": "http://localhost:3000/",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:35.308Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.309Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:35.310Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.085Z",
+    "url": "http://localhost:3000/policies",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:36.086Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.087Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.087Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.088Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.103Z",
+    "url": "http://localhost:3000/policies",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:36.103Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.104Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.104Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.105Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.110Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.943Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.944Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.945Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.945Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.958Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.959Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.960Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.960Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:36.969Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.687Z",
+    "url": "http://localhost:3000/signup",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:37.688Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.689Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.690Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.690Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.716Z",
+    "url": "http://localhost:3000/signup",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:37.716Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.717Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.717Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.717Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:37.729Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.439Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:38.456Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:38.458Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.461Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.462Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.462Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.476Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.476Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.477Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.477Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:38.492Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.273Z",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:39.273Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.275Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.276Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.278Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.293Z",
+    "url": "http://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:39.293Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.293Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.294Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.294Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:39.310Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.026Z",
+    "url": "http://localhost:3000/reset-password",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:40.027Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.028Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.028Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.030Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.047Z",
+    "url": "http://localhost:3000/reset-password",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:40.047Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.047Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.048Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.048Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:40.060Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.188Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:41.189Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.191Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.192Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.194Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.221Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:41.221Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.223Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.223Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.225Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:41.236Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:42.685Z",
+    "url": "http://localhost:3000/profile?_rsc=utQopaZyVbfSG9h2",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:42.775Z",
+    "url": "http://localhost:3000/profile?_rsc=oohTlPxpI3D_3LYN",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.240Z",
+    "url": "http://localhost:3000/network?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.248Z",
+    "url": "http://localhost:3000/interests?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.277Z",
+    "url": "http://localhost:3000/create?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.407Z",
+    "url": "http://localhost:3000/moderation?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.441Z",
+    "url": "http://localhost:3000/profile",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.448Z",
+    "url": "http://localhost:3000/collaborate?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.464Z",
+    "url": "http://localhost:3000/settings?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:44.553Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:49.740Z",
+    "url": "http://localhost:3000/moderation?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:49.780Z",
+    "url": "http://localhost:3000/settings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:49.795Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:52.910Z",
+    "url": "http://localhost:3000/network?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:53.082Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:09:55.854Z",
+    "url": "http://localhost:3000/profile?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:56.155Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:56.483Z",
+    "url": "http://localhost:3000/settings?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:09:56.522Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:04.016Z",
+    "url": "http://localhost:3000/interests?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:04.184Z",
+    "url": "http://localhost:3000/collaborate?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:04.184Z",
+    "url": "http://localhost:3000/settings?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:04.277Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.565Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:06.577Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:06.578Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.579Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.579Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.579Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.595Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.596Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.596Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.596Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.619Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:06.990Z",
+    "url": "http://localhost:3000/create",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:07.384Z",
+    "url": "http://localhost:3000/create?_rsc=NsWxKm5JuSUWUuAa",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:08.524Z",
+    "url": "http://localhost:3000/profile?_rsc=utQopaZyVbfSG9h2",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:08.912Z",
+    "url": "http://localhost:3000/profile?_rsc=oohTlPxpI3D_3LYN",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:09.370Z",
+    "url": "http://localhost:3000/network?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:09.537Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:09.686Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:09.726Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:11.421Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:17.746Z",
+    "url": "http://localhost:3000/profile?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:17.930Z",
+    "url": "http://localhost:3000/collaborate?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:17.931Z",
+    "url": "http://localhost:3000/settings?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:18.234Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:21.004Z",
+    "url": "http://localhost:3000/interests?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:21.156Z",
+    "url": "http://localhost:3000/moderation?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:21.164Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:21.329Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:22.524Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:28.300Z",
+    "url": "http://localhost:3000/profile?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:28.460Z",
+    "url": "http://localhost:3000/create?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:28.477Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:28.477Z",
+    "url": "http://localhost:3000/settings?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:28.676Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:29.600Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:34.429Z",
+    "url": "http://localhost:3000/settings?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:34.445Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:38.600Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:41.633Z",
+    "url": "http://localhost:3000/network?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:41.781Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:41.981Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:43.023Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:48.002Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:49.263Z",
+    "url": "http://localhost:3000/settings?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:49.266Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:10:49.273Z",
+    "url": "http://localhost:3000/moderation?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:49.285Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:54.817Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:58.583Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:10:58.647Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:07.753Z",
+    "url": "http://localhost:3000/create?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:07.763Z",
+    "url": "http://localhost:3000/profile?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:07.768Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:07.891Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:07.897Z",
+    "url": "http://localhost:3000/network?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:09.169Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:15.587Z",
+    "url": "http://localhost:3000/interests?_rsc=3C7GVewgHlvW12yL",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:15.621Z",
+    "url": "http://localhost:3000/profile?_rsc=3C7GVewgHlvW12yL",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:15.881Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:21.034Z",
+    "url": "http://localhost:3000/settings?_rsc=3C7GVewgHlvW12yL",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:21.541Z",
+    "url": "http://localhost:3000/create?_rsc=qRaBPBk9jvxNHXWA",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:21.647Z",
+    "url": "http://localhost:3000/collaborate?_rsc=qRaBPBk9jvxNHXWA",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:21.818Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:23.691Z",
+    "url": "http://localhost:3000/profile?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:24.013Z",
+    "url": "http://localhost:3000/communities",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:24.014Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:25.069Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880318288?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:25.078Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880367573?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:25.259Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791877552509?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:25.477Z",
+    "url": "http://localhost:3000/communities",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:27.677Z",
+    "url": "http://localhost:3000/interests?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:27.848Z",
+    "url": "http://localhost:3000/moderation?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:27.984Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:28.966Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880318288?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:28.966Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880367573?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:28.977Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880212462?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:31.304Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.508Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:33.509Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.509Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.510Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.511Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.525Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:33.527Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.528Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.528Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.529Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:33.547Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:34.456Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:34.991Z",
+    "url": "http://localhost:3000/profile?_rsc=utQopaZyVbfSG9h2",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:35.112Z",
+    "url": "http://localhost:3000/profile?_rsc=oohTlPxpI3D_3LYN",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:36.387Z",
+    "url": "http://localhost:3000/network?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:36.397Z",
+    "url": "http://localhost:3000/create?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:39.189Z",
+    "url": "http://localhost:3000/settings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:39.200Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:42.553Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:49.483Z",
+    "url": "http://localhost:3000/collaborate",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:51.471Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:55.324Z",
+    "url": "http://localhost:3000/collaborate",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:56.821Z",
+    "url": "http://localhost:3000/settings?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:56.840Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:11:58.564Z",
+    "url": "http://localhost:3000/collaborate",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:11:59.930Z",
+    "url": "http://localhost:3000/collaborate",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:09.245Z",
+    "url": "http://localhost:3000/interests?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:09.479Z",
+    "url": "http://localhost:3000/network?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:09.479Z",
+    "url": "http://localhost:3000/create?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:09.479Z",
+    "url": "http://localhost:3000/moderation?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:09.479Z",
+    "url": "http://localhost:3000/collaborate?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:09.628Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:10.301Z",
+    "url": "http://localhost:3000/collaborate",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:10.422Z",
+    "url": "http://localhost:3000/collaborate",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:10.777Z",
+    "url": "http://localhost:3000/interests?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:10.777Z",
+    "url": "http://localhost:3000/profile?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:10.917Z",
+    "url": "http://localhost:3000/network?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:11.056Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:16.866Z",
+    "url": "http://localhost:3000/profile?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:16.878Z",
+    "url": "http://localhost:3000/interests?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:17.159Z",
+    "url": "http://localhost:3000/create",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:17.164Z",
+    "url": "http://localhost:3000/settings?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:17.164Z",
+    "url": "http://localhost:3000/collaborate?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:17.165Z",
+    "url": "http://localhost:3000/moderation?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:17.407Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.587Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:18.587Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.588Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.588Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.590Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.604Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:18.604Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.604Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.604Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.606Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:18.621Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:20.025Z",
+    "url": "http://localhost:3000/profile?_rsc=utQopaZyVbfSG9h2",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:20.171Z",
+    "url": "http://localhost:3000/profile?_rsc=oohTlPxpI3D_3LYN",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:20.897Z",
+    "url": "http://localhost:3000/profile?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:20.917Z",
+    "url": "http://localhost:3000/interests?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:21.069Z",
+    "url": "http://localhost:3000/collaborate?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:21.082Z",
+    "url": "http://localhost:3000/create?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:21.195Z",
+    "url": "http://localhost:3000/moderation",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:21.216Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:24.799Z",
+    "url": "http://localhost:3000/create?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:24.818Z",
+    "url": "http://localhost:3000/settings?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:25.146Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.136Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:27.136Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Ffeed",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.137Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnotifications",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.137Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fprofile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.137Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Finterests",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.151Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fnetwork",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.151Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcreate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.152Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fcollaborate",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.152Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fmoderation",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:27.168Z",
+    "url": "https://localhost:3000/login?redirectTo=%2Fsettings",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:28.027Z",
+    "url": "http://localhost:3000/login",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:28.604Z",
+    "url": "http://localhost:3000/profile?_rsc=utQopaZyVbfSG9h2",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:29.799Z",
+    "url": "http://localhost:3000/interests?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:29.840Z",
+    "url": "http://localhost:3000/create?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:29.843Z",
+    "url": "http://localhost:3000/network?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:30.034Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:32.272Z",
+    "url": "http://localhost:3000/settings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:32.279Z",
+    "url": "http://localhost:3000/profile?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:32.298Z",
+    "url": "http://localhost:3000/interests?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:32.511Z",
+    "url": "http://localhost:3000/network?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:32.621Z",
+    "url": "http://localhost:3000/settings?_rsc=ZBVeLoi6UZQfv8sw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:33.858Z",
+    "url": "http://localhost:3000/settings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:34.106Z",
+    "url": "http://localhost:3000/settings?_rsc=ZBVeLoi6UZQfv8sw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:37.926Z",
+    "url": "http://localhost:3000/profile?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:37.989Z",
+    "url": "http://localhost:3000/network?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:38.086Z",
+    "url": "http://localhost:3000/settings?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:38.086Z",
+    "url": "http://localhost:3000/moderation?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:38.219Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:40.584Z",
+    "url": "http://localhost:3000/interests?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:40.622Z",
+    "url": "http://localhost:3000/create?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:40.839Z",
+    "url": "http://localhost:3000/moderation?_rsc=3OjXOvR16xTJgvu1",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:40.841Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:42.890Z",
+    "url": "http://localhost:3000/interests?_rsc=1p-R_iEY6bj0jY31",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:43.041Z",
+    "url": "http://localhost:3000/moderation?_rsc=1p-R_iEY6bj0jY31",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:43.191Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:45.125Z",
+    "url": "http://localhost:3000/profile?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:45.135Z",
+    "url": "http://localhost:3000/network?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:45.285Z",
+    "url": "http://localhost:3000/moderation?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:45.285Z",
+    "url": "http://localhost:3000/collaborate?_rsc=BNaWq7j3X5Nh00Aw",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:45.440Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:46.449Z",
+    "url": "http://localhost:3000/feed",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:51.213Z",
+    "url": "http://localhost:3000/interests?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:51.232Z",
+    "url": "http://localhost:3000/network?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:51.371Z",
+    "url": "http://localhost:3000/collaborate?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:51.380Z",
+    "url": "http://localhost:3000/moderation?_rsc=sH_X2DDwIGOAgXwU",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:51.600Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:53.675Z",
+    "url": "http://localhost:3000/interests?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:53.675Z",
+    "url": "http://localhost:3000/network?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:12:54.096Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:57.909Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:12:57.949Z",
+    "url": "http://localhost:3000/settings",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:01.845Z",
+    "url": "http://localhost:3000/interests?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:01.845Z",
+    "url": "http://localhost:3000/profile?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:02.213Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:03.434Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880212462?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:03.434Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880318288?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:03.438Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791880367573?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:03.585Z",
+    "url": "http://localhost:3000/communities/p03-active-hub-1791877552509?_rsc=2PQx__eHrw_mb3-B",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:06.285Z",
+    "url": "http://localhost:3000/network?_rsc=Jvj-ZlhzHPZSbYp7",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:06.488Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:13.772Z",
+    "url": "http://localhost:3000/profile?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:13.911Z",
+    "url": "http://localhost:3000/network?_rsc=TSQp3qEkGIaRyTL4",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:14.078Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:18.245Z",
+    "url": "http://localhost:3000/profile?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:18.334Z",
+    "url": "http://localhost:3000/interests?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:18.400Z",
+    "url": "http://localhost:3000/network?_rsc=5CfpYlkwCHL0OHom",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:18.602Z",
+    "url": "http://localhost:3000/moderation",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:18.602Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:22.582Z",
+    "url": "http://localhost:3000/profile?_rsc=3C7GVewgHlvW12yL",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:22.591Z",
+    "url": "http://localhost:3000/interests?_rsc=3C7GVewgHlvW12yL",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:22.756Z",
+    "url": "http://localhost:3000/collaborate?_rsc=3C7GVewgHlvW12yL",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:22.852Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:22.865Z",
+    "url": "http://localhost:3000/network",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:24.979Z",
+    "url": "http://localhost:3000/network?_rsc=mgcRqkTlJ6DGYZec",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:25.141Z",
+    "url": "http://localhost:3000/collaborate?_rsc=mgcRqkTlJ6DGYZec",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:25.269Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:26.974Z",
+    "url": "http://localhost:3000/interests?_rsc=qRaBPBk9jvxNHXWA",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:27.120Z",
+    "url": "http://localhost:3000/collaborate?_rsc=qRaBPBk9jvxNHXWA",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:27.134Z",
+    "url": "http://localhost:3000/settings?_rsc=qRaBPBk9jvxNHXWA",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:27.260Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:31.268Z",
+    "url": "http://localhost:3000/interests?_rsc=r70DxJaPynggQvZ9",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:31.605Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:33.925Z",
+    "url": "http://localhost:3000/interests?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:34.091Z",
+    "url": "http://localhost:3000/collaborate?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:34.250Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:36.365Z",
+    "url": "http://localhost:3000/interests?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:36.689Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:38.972Z",
+    "url": "http://localhost:3000/interests?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:39.097Z",
+    "url": "http://localhost:3000/create?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:39.124Z",
+    "url": "http://localhost:3000/settings?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:39.124Z",
+    "url": "http://localhost:3000/moderation?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:39.272Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:41.260Z",
+    "url": "http://localhost:3000/settings?_rsc=0JRbJX4JgpfuvHsr",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:41.262Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  },
+  {
+    "time": "2026-10-13T16:13:43.345Z",
+    "url": "http://localhost:3000/interests?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:43.355Z",
+    "url": "http://localhost:3000/network?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:43.674Z",
+    "url": "http://localhost:3000/create?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:43.682Z",
+    "url": "http://localhost:3000/collaborate?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:43.683Z",
+    "url": "http://localhost:3000/moderation?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:43.683Z",
+    "url": "http://localhost:3000/settings?_rsc=I5wpi4pfLl2JXPg6",
+    "error": "net::ERR_ABORTED"
+  },
+  {
+    "time": "2026-10-13T16:13:43.827Z",
+    "url": "https://localhost:3000/profile",
+    "error": "net::ERR_SSL_PROTOCOL_ERROR"
+  }
+]

@@ -1,0 +1,24 @@
+﻿# Local environment files and backup copies
+.env*
+
+# Internal QA artifacts, browser traces, and synthetic test data
+artifacts/
+
+# Database snapshots and recovery files
+backups/
+
+# Local agent instructions and skill bundles
+.agents/
+
+# Tests are not needed in the deployed application
+tests/
+
+# Local TypeScript incremental build metadata
+*.tsbuildinfo
+
+# Internal project context
+PROJECT_CONTEXT.md
+
+# Internal operational scripts and database migrations
+scripts/
+/supabase/
